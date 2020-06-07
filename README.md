@@ -1,3 +1,3 @@
-Juego de rol hecho con VUE
+## Juego de rol hecho con VUE
 
-![Texto alternativo](castlegame.png)
+![Imagen del juego](castlegame.PNG)
